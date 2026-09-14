@@ -117,7 +117,7 @@ An application designed to help users prepare for technical interviews through a
 
 - Solved **100+ Data Structures & Algorithms problems** on LeetCode.
 - Earned the **LeetCode 50 Days Badge**.
-- - Participated in the **Adobe India Hackathon**.
+- Participated in the **Adobe India Hackathon**.
 - Participated in the **Smart India Hackathon (SIH)**.
 - Built multiple end-to-end full-stack applications.
 
