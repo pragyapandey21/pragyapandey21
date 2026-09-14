@@ -6,10 +6,11 @@
 
 I build practical web applications and explore AI/ML through hands-on projects.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](YOUR_PORTFOLIO_LINK)
-[![Resume](https://img.shields.io/badge/Resume-View-red?style=for-the-badge)](YOUR_RESUME_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Resume](https://img.shields.io/badge/Resume-View-red?style=for-the-badge)](https://drive.google.com/file/d/1ODzhwVBysKSQC4aMGBs5bwwG7_mv5UEB/view?usp=sharing)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragya-pandey-829b42345/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeypragya449@gmail.com)
 
 </div>
 
