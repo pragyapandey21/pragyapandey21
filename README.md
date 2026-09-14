@@ -122,17 +122,6 @@ An application designed to help users prepare for technical interviews through a
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pragyapandey21&show_icons=true&theme=dark&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyapandey21&layout=compact&theme=dark&hide_border=true" height="180"/>
-
-</div>
-
----
 
 ## 🔥 Contribution Streak
 
